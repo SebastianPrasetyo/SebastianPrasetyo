@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SebastianPrasetyo
+- 👀 I’m interested in software development, artificial intelligence, machine learning, cybersecurity, and data analytics.
+- 🌱 I’m currently taking my Bachelor of Science, in Computer Science at Queen's University of Belfast
+- 📫 You can reach me through sprasetyo01@qub.ac.uk
