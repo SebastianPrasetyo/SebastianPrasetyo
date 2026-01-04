@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SebastianPrasetyo
 - 👀 I’m interested in consulting, financial analytics and data analytics.
-- 🌱 I’m currently taking my Bachelor of Science, in Computer Science at Queen's University of Belfast
+- 🌱 I’m currently taking my Master of Science, in Economics & Finance at King's College London
 - 📫 You can reach me through sebprasetyo@gmail.com
